@@ -1,0 +1,1 @@
+A repo to keep track of progress through MIT's SICP program.
